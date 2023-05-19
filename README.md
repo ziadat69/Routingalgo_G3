@@ -7,3 +7,5 @@ Wenn die maximale Link-Auslastungsschwelle überschritten wird, ergreift der Alg
 Für die Berechnung des kürzesten Pfads habe ich die NetworkX-Bibliothek und den Dijkstra-Algorithmus verwendet. Die Metriken, wie die Auslastung der Links und das Zielkriterium, werden berechnet, um die Leistung des Algorithmus zu bewerten.
 Die Lösung des Algorithmus enthält Informationen über die berechneten Metriken, alternative Routen und Ausführungszeiten.
 Insgesamt zielt mein Projekt darauf ab, die Kapazität der Links effizient zu nutzen und alternative Routen zu finden, um die Netzwerkleistung zu verbessern. Ich habe Maßnahmen implementiert, um die Link-Auslastung unter einer definierten Schwelle zu halten und gegebenenfalls Notfallmaßnahmen umzusetzen.
+# ALI ALMAZAAL ARBEIT IN TE_SR_WAN_simulation-main
+ In meinem neuen Projekt habe ich den Algorithmus DemandsFirstWaypoints weiter entwickelt.  
