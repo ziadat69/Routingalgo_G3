@@ -1,5 +1,3 @@
-# Routingalgo_G3
-
 
 # ZIADAT AHMAD ARBEIT IN PRKN DATEI
 In meinem neuen Projekt habe ich einen Algorithmus entwickelt, der auf dem Konzept der inversen Kapazität basiert. Die Idee besteht darin, die Gewichte der Verbindungen in einem Netzwerk umzukehren, basierend auf ihrer Kapazität. Dadurch werden Links mit hoher Kapazität bevorzugt und erhalten niedrigere Gewichte für die Routenauswahl.
