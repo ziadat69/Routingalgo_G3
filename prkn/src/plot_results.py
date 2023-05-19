@@ -27,11 +27,11 @@ plt.rc('figure', titlesize=TITLE_SIZE)
 
 # maps each algorithm to a color
 algo_c_map = {
-    #'UnitWeights': "grey",
+   # 'UnitWeights': "grey",
     'InverseCapacity': "skyblue",
    # 'HeurOSPF': "cornflowerblue",
    # 'ILP Weights': "royalblue",
-   # 'GreedyWaypoints': "hotpink",
+    #'GreedyWaypoints': "hotpink",
    # 'ILP Waypoints': "mediumvioletred",
     #'JointHeur': "seagreen",
     #'ILP Joint': "darkgreen",
