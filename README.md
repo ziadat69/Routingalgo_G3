@@ -11,7 +11,7 @@ Insgesamt zielt mein Projekt darauf ab, die Kapazität der Links effizient zu nu
  In meinem neuen Projekt habe ich den Algorithmus DemandsFirstWaypoints weiter entwickelt.  
 
 # BOUALI AMIN 
-In meinem Projekt habe ich Uniform_weights und Demand_first_waypoint in dieser reihen folge sequenziert und analysiert.
+In meinem Projekt habe ich Uniform_weights und Demand_first_waypoint in dieser Reihenfolge sequenziert und analysiert.
 Ziel war es die MLU zu verbessern, was geklappt hat , jedoch sehr auf kosten der Laufzeit.
 
 Um mein Projekt zu replizieren, brauchen man nur das urspüngliche Repository TE_SR_WAN und ersetzt darin die main und sequential Klassen, mit den in dem Ordner Amin bereitgestellten Dateien.
