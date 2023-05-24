@@ -15,3 +15,6 @@ In meinem Projekt habe ich Uniform_weights und Demand_first_waypoint in dieser r
 Ziel war es die MLU zu verbessern, was geklappt hat , jedoch sehr auf kosten der Laufzeit.
 
 Um mein Projekt zu replizieren, brauchen man nur das urspüngliche Repository TE_SR_WAN und ersetzt darin die main und sequential Klassen, mit den in dem Ordner Amin bereitgestellten Dateien.
+
+Hier das ursprüngliche Repository, befolgt dabei die Anweisungen bezüglich der Installation.
+https://github.com/tfenz/TE_SR_WAN_simulation
